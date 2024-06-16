@@ -1,0 +1,21 @@
+.container-team {
+    text-align: center;
+    width: 100%;
+    padding: 32px;
+}
+
+.container-team h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+    border-bottom: 4px solid #57c278;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.cards {
+    display: flex;
+    gap: 36px;
+    flex-wrap: wrap;
+    flex: 200px;
+    justify-content: center;
+}

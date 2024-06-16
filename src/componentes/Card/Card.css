@@ -1,0 +1,46 @@
+.container-geral {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 280px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 5px 5px 15px rgb(204, 204, 204);
+}
+.container-cor {
+    height: 100px;
+}
+.container-texto {
+    background-color: white;
+    height: 190px;
+}
+.container-texto h4,
+h5 {
+    position: relative;
+    bottom: -80px;
+    font-size: 24px;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    color: #6278f7;
+}
+
+.container-texto h3 {
+    padding: 10px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    line-height: 22px;
+}
+
+.container-texto h5 {
+    padding: 16px 16px;
+    font-size: 18px;
+    line-height: 19.5px;
+    color: #212121;
+    font-weight: 450;
+}
+
+.container-cor img {
+    width: 121px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -35px;
+}
