@@ -1,8 +1,44 @@
-# React + Vite
+ # Organo-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">Organo-React</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+ Opa tudo bem!! Seja bem vindo ao meu primeiro projeto feito em REACT e VITE Um aplicativo react feito para colaboradores criarem cards de acordo com suas funções, nomes e características!!<br/>
+<a href="https://github.com/CaioFurtadoo">Veja mais projetos aqui</a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+
+
+
+https://github.com/CaioFurtadoo/campin-login/assets/164534948/0224701e-058a-4dcc-856c-f19c00ba7f7d
+
+
+
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Git e Github
+-   JavaScript
+-   React
+-   Vite
+
+## 💻 Projeto
+
+O Projeto foi realizado com o intuito de estudo e pratica principalmente relacionado a biblioteca React em adjunto ao Vite e yarn. De fato uma experiência e tanto! Uma tecnologia nova, porem muito interessante! ainda tenho muito que estudar, portanto vamos pra cima!!!
+
+## 🔖 Layout
+
+Feito com ♥ by Caio Furtado
