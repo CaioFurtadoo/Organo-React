@@ -1,0 +1,32 @@
+.footer {
+    background: #6278f7;
+    position: relative;
+    color: #fff;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+@media (max-width: 600px) {
+    .footer ul li,
+    p {
+        display: none;
+    }
+
+    .footer img {
+        position: absolute;
+        left: 80px;
+        top: 50px;
+    }
+}

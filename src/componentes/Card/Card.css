@@ -4,7 +4,8 @@
     width: 280px;
     border-radius: 15px;
     overflow: hidden;
-    box-shadow: 5px 5px 15px rgb(204, 204, 204);
+    position: relative;
+    box-shadow: 2px 2px 40px rgba(7, 7, 7, 0.375);
 }
 .container-cor {
     height: 100px;
@@ -43,4 +44,17 @@ h5 {
     border-radius: 50%;
     position: relative;
     bottom: -35px;
+    aspect-ratio: 1/1;
+}
+
+.delete {
+    position: absolute;
+    right: 16px;
+    top: 12px;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+.delete:hover {
+    transform: scale(1.15);
 }

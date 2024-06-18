@@ -799,6 +799,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/uuid@npm:8.3.4":
+  version: 8.3.4
+  resolution: "@types/uuid@npm:8.3.4"
+  checksum: 10c0/b9ac98f82fcf35962317ef7dc44d9ac9e0f6fdb68121d384c88fe12ea318487d5585d3480fa003cf28be86a3bbe213ca688ba786601dce4a97724765eb5b1cf2
+  languageName: node
+  linkType: hard
+
 "@ungap/structured-clone@npm:^1.2.0":
   version: 1.2.0
   resolution: "@ungap/structured-clone@npm:1.2.0"
@@ -1116,9 +1123,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001629":
-  version: 1.0.30001634
-  resolution: "caniuse-lite@npm:1.0.30001634"
-  checksum: 10c0/43e8e95fc9f23bc00962bef0b044fe531316eb2d5b294b6f3aca6550aab91d5ce44863f6981200cf4d1b9c83265247fa2b284ddbd7961911b2594c42a18b73e2
+  version: 1.0.30001636
+  resolution: "caniuse-lite@npm:1.0.30001636"
+  checksum: 10c0/e5f965b4da7bae1531fd9f93477d015729ff9e3fa12670ead39a9e6cdc4c43e62c272d47857c5cc332e7b02d697cb3f2f965a1030870ac7476da60c2fc81ee94
   languageName: node
   linkType: hard
 
@@ -1321,9 +1328,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.796":
-  version: 1.4.802
-  resolution: "electron-to-chromium@npm:1.4.802"
-  checksum: 10c0/a7e2daefe1f0b3af7b5986b5ce33f4452666d74a1f07a08dcc2cef8afdffbf00f6631f05e76eb526f1c17fd8bcd4b3134d2d936c847c271120ee397f4aaf6553
+  version: 1.4.803
+  resolution: "electron-to-chromium@npm:1.4.803"
+  checksum: 10c0/875225ce4b30c88e123258dced8f83542f16c443519a11e87c2c136ab9470000d36f6fb1c46860b85a10f30694aba80c14b3498730ad36c87526defb632fcf3d
   languageName: node
   linkType: hard
 
@@ -1835,12 +1842,12 @@ __metadata:
   linkType: hard
 
 "foreground-child@npm:^3.1.0":
-  version: 3.2.0
-  resolution: "foreground-child@npm:3.2.0"
+  version: 3.2.1
+  resolution: "foreground-child@npm:3.2.1"
   dependencies:
     cross-spawn: "npm:^7.0.0"
     signal-exit: "npm:^4.0.1"
-  checksum: 10c0/4d577377847064ed101cc9fffd286a8838ceae5a0a137152bb27332987f799244a8afe30d1fe36b22e1ae30fa0972abe4a73d0d8dc91c40cdc9dfe441f7b325e
+  checksum: 10c0/9a53a33dbd87090e9576bef65fb4a71de60f6863a8062a7b11bc1cbe3cc86d428677d7c0b9ef61cdac11007ac580006f78bd5638618d564cfd5e6fd713d6878f
   languageName: node
   linkType: hard
 
@@ -2091,6 +2098,13 @@ __metadata:
   dependencies:
     function-bind: "npm:^1.1.2"
   checksum: 10c0/3769d434703b8ac66b209a4cca0737519925bbdb61dd887f93a16372b14694c63ff4e797686d87c90f08168e81082248b9b028bad60d4da9e0d1148766f56eb9
+  languageName: node
+  linkType: hard
+
+"hex-to-rgba@npm:^2.0.1":
+  version: 2.0.1
+  resolution: "hex-to-rgba@npm:2.0.1"
+  checksum: 10c0/ddf67c1c48eea0154086bf10b36dacb950f05eebfcd740e9968018364a3ca239d39396758c9eaf0f7877c1a17ec2a059692ac7bb87f2e8fa6a8c34d8c084f63d
   languageName: node
   linkType: hard
 
@@ -2924,8 +2938,11 @@ __metadata:
     eslint-plugin-react: "npm:^7.34.1"
     eslint-plugin-react-hooks: "npm:^4.6.0"
     eslint-plugin-react-refresh: "npm:^0.4.6"
+    hex-to-rgba: "npm:^2.0.1"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
+    react-icons: "npm:^5.2.1"
+    uuidv4: "npm:^6.2.13"
     vite: "npm:^5.2.0"
   languageName: unknown
   linkType: soft
@@ -3094,6 +3111,15 @@ __metadata:
   peerDependencies:
     react: ^18.3.1
   checksum: 10c0/a752496c1941f958f2e8ac56239172296fcddce1365ce45222d04a1947e0cc5547df3e8447f855a81d6d39f008d7c32eab43db3712077f09e3f67c4874973e85
+  languageName: node
+  linkType: hard
+
+"react-icons@npm:^5.2.1":
+  version: 5.2.1
+  resolution: "react-icons@npm:5.2.1"
+  peerDependencies:
+    react: "*"
+  checksum: 10c0/9d52b975afaf27dab07dcaefd50497ba43cc57076fc26ccac5142965e01c7fd0c503a62ea31c3bb710e0b2959a4620c2fed12c3c86960ad8ceb63de7f0085f3a
   languageName: node
   linkType: hard
 
@@ -3718,6 +3744,25 @@ __metadata:
   dependencies:
     punycode: "npm:^2.1.0"
   checksum: 10c0/4ef57b45aa820d7ac6496e9208559986c665e49447cb072744c13b66925a362d96dd5a46c4530a6b8e203e5db5fe849369444440cb22ecfc26c679359e5dfa3c
+  languageName: node
+  linkType: hard
+
+"uuid@npm:8.3.2":
+  version: 8.3.2
+  resolution: "uuid@npm:8.3.2"
+  bin:
+    uuid: dist/bin/uuid
+  checksum: 10c0/bcbb807a917d374a49f475fae2e87fdca7da5e5530820ef53f65ba1d12131bd81a92ecf259cc7ce317cbe0f289e7d79fdfebcef9bfa3087c8c8a2fa304c9be54
+  languageName: node
+  linkType: hard
+
+"uuidv4@npm:^6.2.13":
+  version: 6.2.13
+  resolution: "uuidv4@npm:6.2.13"
+  dependencies:
+    "@types/uuid": "npm:8.3.4"
+    uuid: "npm:8.3.2"
+  checksum: 10c0/33287c7c71e19c5a9fe0d936c0df648338965442c80b5b26e51c13ec9a9c524a72c718355e0cea8a9431a78680d72a41a236b87046ecc0a05f518c8e22df9e35
   languageName: node
   linkType: hard
 

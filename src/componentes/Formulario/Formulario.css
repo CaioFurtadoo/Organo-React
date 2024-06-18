@@ -1,3 +1,8 @@
+.forms-all {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
 form {
     max-width: 80%;
     padding: 36px 96px;
@@ -5,7 +10,7 @@ form {
     border-radius: 15px;
     display: flex;
     flex-direction: column;
-    box-shadow: 8px 8px 16px #00000014; 
+    box-shadow: 8px 8px 16px #00000014;
 }
 h2 {
     margin-bottom: 40px;

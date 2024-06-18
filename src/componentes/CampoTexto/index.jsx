@@ -2,7 +2,6 @@ import './CampoTexto.css'
 
 export const CampoTexto = (props) =>{
 
-
     const Digit = (event) =>{
         props.Digit(event.target.value)
     }
@@ -10,7 +9,14 @@ export const CampoTexto = (props) =>{
     return (
         <div className='campo-texto'>
             <label>{props.label}</label>
-            <input value={props.value} onChange={Digit} required={props.obrigatorio} type="text" placeholder={props.placeholder}/>
+            <input 
+            value={props.value} 
+            onChange={Digit} 
+            required={props.obrigatorio} 
+            type={props.input} 
+            placeholder={props.placeholder}
+            style={props.css}
+            />
         </div>
     )
 }
