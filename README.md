@@ -16,13 +16,7 @@
 <br>
 
 <p align="center">
-
-
-
-https://github.com/CaioFurtadoo/campin-login/assets/164534948/0224701e-058a-4dcc-856c-f19c00ba7f7d
-
-
-
+https://github.com/CaioFurtadoo/Organo-React/assets/164534948/b9ff4417-64b9-4756-b89f-c4164cfc4df8
 </p>
 
 ## 🚀 Tecnologias
